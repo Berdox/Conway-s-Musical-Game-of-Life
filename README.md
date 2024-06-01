@@ -14,4 +14,13 @@ This project is an implementation of Conway's Game of Life that generates musica
     ```bash
     npm run dev
     ```
+## Firebase Deployment
+1. Build the project
+   ```bash
+   npm run build
+   ```
+2. Deploy to firebase
+   ```bash
+   firebase deploy
+   ```
 
