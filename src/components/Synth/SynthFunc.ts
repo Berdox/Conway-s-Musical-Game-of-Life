@@ -110,8 +110,8 @@ export const keys: Key[] = [
 
 
 // Create a new Tone.Context instance with specific settings
-const audioContextRef = new (window.AudioContext || window.webkitAudioContext)();
-Tone.setContext(audioContextRef);
+//const audioContextRef = new (window.AudioContext || window.webkitAudioContext)();
+//Tone.setContext(audioContextRef);
 // Define a union type for the synthesizers
 type SynthUnion = Tone.Synth | Tone.AMSynth | Tone.FMSynth | Tone.MembraneSynth | Tone.MetalSynth;
 
