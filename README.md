@@ -1,6 +1,8 @@
 # Conway-s-Musical-Game-of-Life
-Conway's game of life that plays a synth for each alive cell   
+Conway's game of life that plays a synth for each alive cell.   
 Has mutiple different synths and play back types  
+
+![Screenshot of the main grid of the game.](./public/assets/mainView.png)
    
 ## Running Commands   
     1. You have to install all the npm packages   
