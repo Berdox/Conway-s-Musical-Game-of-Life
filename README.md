@@ -1,12 +1,17 @@
-# Conway-s-Musical-Game-of-Life
-Conway's game of life that plays a synth for each alive cell.   
-Has mutiple different synths and play back types to give different sounds to the cells.  
-Uses the tuning system of the Harpejji to give each of the cells it's note  
+# Conway's Musical Game of Life
+
+This project is an implementation of Conway's Game of Life that generates musical notes for each alive cell. It features multiple synthesizers and playback types to create a variety of sounds from the cells. The tuning system of the Harpejji is used to assign notes to each cell.
 
 ![Screenshot of the main grid of the game.](./public/assets/mainView.png)
-   
-## Running Commands   
-    1. You have to install all the npm packages   
-        ```npm install```
-    2. Then you can run the dev version of it with   
-        ``` npm run dev```
+
+## Run Commands
+
+1. Install all the necessary npm packages:
+    ```bash
+    npm install
+    ```
+2. Run the development version:
+    ```bash
+    npm run dev
+    ```
+
