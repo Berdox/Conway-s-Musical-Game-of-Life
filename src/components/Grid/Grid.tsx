@@ -243,6 +243,10 @@ const Grid: React.FC = () => {
                     </ul>
                 </div>
             </div>
+            <div className='github_container'>
+                <h2>Github</h2>
+                <a href="https://github.com/Berdox/Conways-Musical-Game-of-Life/tree/main" >https://github.com/Berdox/Conways-Musical-Game-of-Life/tree/main</a>
+            </div>
         </div>
     );
 };
